@@ -1,2 +1,3 @@
 # hello-world-again
-LET'S NOT FUCK IT UP
+
+This is a project particularly unlikely to go anywhere. It could be worse, I suppose. 
